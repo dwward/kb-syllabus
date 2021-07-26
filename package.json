@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "csv-parse": "^4.16.0",
+    "fast-csv": "^4.3.6"
   }
 }

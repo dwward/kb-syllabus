@@ -11,46 +11,1681 @@
     "black"
   ],
   "books": [
-    "Kirby, George (1983).  Jujitsu: Basic techniques of the gentle art.  Santa Clarita, CA.  Ohara Publications.",
-    "Kirby, George (1999).  Intermediate techniques of jujitsu, the gentle art.  Santa Clarita, CA.  Ohara Publications."
+    {
+      "id": 1,
+      "title": "Kirby, George (1983).  Jujitsu: Basic techniques of the gentle art.  Santa Clarita, CA.  Ohara Publications."
+    },
+    {
+      "id": 2,
+      "title": "Kirby, George (1999).  Intermediate techniques of jujitsu, the gentle art.  Santa Clarita, CA.  Ohara Publications."
+    },
+    {
+      "id": 3,
+      "title": "Jigoro, Kano (1997).  Kodokan Judo.  Kodansha International."
+    }
   ],
   "techniques": [
     {
       "name": "Back Fall (Ushiro Ukemi)",
-      "description": "Fall on your back",
+      "categories": [
+        "FALLS (UKEMI)"
+      ],
       "belt": "yellow",
-      "video": {
-        "type": "video",
-        "title": "How to do a backfall",
-        "url": "https://www.youtube.com/watch?v=JvLKqk06SJg"
-      },
-      "books": [
-        {
-          "type": "book",
-          "title": "Kirby",
-          "pages": "32"
-        }
-      ]
+      "video": "",
+      "description": "",
+      "pages_kirby83": "32",
+      "pages_kirby99": "",
+      "pages_kodokan97": "45"
+    },
+    {
+      "name": "Side Fall (Yoko Ukemi)",
+      "categories": [
+        "FALLS (UKEMI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "30",
+      "pages_kirby99": "",
+      "pages_kodokan97": "48"
+    },
+    {
+      "name": "Front Fall (Mae Ukemi)",
+      "categories": [
+        "FALLS (UKEMI)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "51"
+    },
+    {
+      "name": "Front Roll (Zempo Kaiten Ukemi)",
+      "categories": [
+        "ROLLS (KAITEN UKEMI)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "34, 36",
+      "pages_kirby99": "",
+      "pages_kodokan97": "52"
+    },
+    {
+      "name": "Eight Ways Off-Balancing (Happo No Kusushi)",
+      "categories": [
+        "OFF-BALANCING (KUSUSHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
     },
     {
       "name": "Waki Gatame (Armpit Lock)",
-      "description": "Standing arm lock",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
       "belt": "yellow",
-      "video": {
-        "type": "video",
-        "title": "Waki Gatame",
-        "url": "https://www.youtube.com/watch?v=9TKlUtn-M8s"
-      },
-      "books": [
-        {
-          "title": "Kirby2",
-          "pages": "130"
-        },
-        {
-          "title": "Kodokan Judo",
-          "pages": "129"
-        }
-      ]
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "130",
+      "pages_kodokan97": "129"
+    },
+    {
+      "name": "Kote Gaeshi (Wrist Reversal)",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "52",
+      "pages_kirby99": "154,158",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Kote Hineri (Wrist Twist)",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "58, 84",
+      "pages_kirby99": "168",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Shiho Nage (Four Directions Throw)",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "94, 96",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Ude Garame (Arm Entanglement) ",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "60, 116",
+      "pages_kirby99": "",
+      "pages_kodokan97": "125"
+    },
+    {
+      "name": "Elbow Takedown",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "98, 104, 106",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Hammer Lock",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "84",
+      "pages_kirby99": "132,160",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Wristlock Takedown",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "92",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Kote Mawashi (Wrist Turn)",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "164, 166",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Yubi Nage (Finger Throw)",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "74, 88",
+      "pages_kirby99": "162,170",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Oshi Taoshi (Push Down) [Elbow Roll] ",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "104, 106",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Ude Gatame (Arm Lock) ",
+      "categories": [
+        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+      ],
+      "belt": "brown1",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "127, 195"
+    },
+    {
+      "name": "Trachea Thrust",
+      "categories": [
+        "NERVE TECHNIQUES (SHIOKU WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "48",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Mastoid Press",
+      "categories": [
+        "NERVE TECHNIQUES (SHIOKU WAZA)"
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "66",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Radial Nerve",
+      "categories": [
+        "NERVE TECHNIQUES (SHIOKU WAZA)"
+      ],
+      "belt": "brown1",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Guard",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "POSITIONS"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Mount",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "POSITIONS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Back Mount (Figure 4)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "POSITIONS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Hon Kesa Gatame (Scarf Hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "PINS (OSAE-KOMI WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "110, 161"
+    },
+    {
+      "name": "Yoko Shiho Gatame (Side 4-corner hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "PINS (OSAE-KOMI WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "115, 164"
+    },
+    {
+      "name": "Kata Gatame (Shoulder Hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "PINS (OSAE-KOMI WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "112, 162"
+    },
+    {
+      "name": "Kami Shiho Gatame (Top 4-corner hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "PINS (OSAE-KOMI WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "113, 163"
+    },
+    {
+      "name": "From Guard",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "From Mount Position",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "From Hon Kesa Gatame (Scarf Hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "111"
+    },
+    {
+      "name": "From Yoko Shiho Gatame (Side 4-corner hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "115"
+    },
+    {
+      "name": "From Kata Gatame (Shoulder Hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "112"
+    },
+    {
+      "name": "Fron Kami Shiho Gatame (Top 4-corner hold)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "ESCAPES"
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "113"
+    },
+    {
+      "name": "Juji Gatame (Cross Lock) ",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "126, 169"
+    },
+    {
+      "name": "Ude Garame (Arm Entanglement)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "125, 169"
+    },
+    {
+      "name": "Sankaku Gatame (Triangle Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "124, 130"
+    },
+    {
+      "name": "Waki Gatame (Armpit Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "129"
+    },
+    {
+      "name": "Ude Gatame (Arm Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "127, 170"
+    },
+    {
+      "name": "Hiza Gatame (Knee Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "JOINT LOCKS (KANSETSU WAZA)"
+      ],
+      "belt": "brown1",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "130, 170"
+    },
+    {
+      "name": "Hadaka-jime (Naked Choke) ",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "120,166"
+    },
+    {
+      "name": "Kata-ha-jime (Single-wing Lock)  ",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "122, 167"
+    },
+    {
+      "name": "Gyaku-juji-jime (Reverse Cross Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "118, 168"
+    },
+    {
+      "name": "Okuri-eri-jime (Sliding Collar Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "121, 166"
+    },
+    {
+      "name": "Nami-juji-jime (Normal Cross Lock)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "117, 165"
+    },
+    {
+      "name": "Kata-juji-jime (Half-cross Lock) ",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "119, 165"
+    },
+    {
+      "name": "Sode-guruma-jime (Sleeve Wheel Choke)",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "123"
+    },
+    {
+      "name": "Guillotine choke",
+      "categories": [
+        "GROUND TECHNIQUES (NE WAZA)  ",
+        "CHOKES (SHIME WAZA)"
+      ],
+      "belt": "brown1",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Jab",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Hook",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Cross",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Straight Punch ",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Upper cut",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Palm Strike",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Chop ",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Backhand",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "106",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Elbow Strike",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "88",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "(Head Butt)",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "HAND AND ARM STRIKES (UCHI)"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Mae Geri (Front Kick)",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "KICKING TECHNIQUES (GERI WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Roundhouse Kick",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "KICKING TECHNIQUES (GERI WAZA)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Side Kick",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "KICKING TECHNIQUES (GERI WAZA)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Fumi (Stomp) ",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "KICKING TECHNIQUES (GERI WAZA)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Back Kick",
+      "categories": [
+        "STRIKING TECHNIQUES (ATEMI WAZA) ",
+        "KICKING TECHNIQUES (GERI WAZA)"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Single-arm block",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Jodan (High-Level)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Juji (Cross block)",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Jodan (High-Level)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Outside",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Chudan (Middle-Level)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Inside",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Chudan (Middle-Level)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Circle/Arc",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Chudan (Middle-Level)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Arm Traps",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Chudan (Middle-Level)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Single-arm block",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Gedan (Low-Level)"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Down chop",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Gedan (Low-Level)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Cross block (juji block)",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Gedan (Low-Level)"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Leg trap",
+      "categories": [
+        "DEFENSES AGAINST STRIKES/KICKS",
+        "Blocking (Te No Tatake) ",
+        "Gedan (Low-Level)"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Kubi Nage (Neck Throw) [regular, aiki]",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "66",
+      "pages_kirby99": "",
+      "pages_kodokan97": "70"
+    },
+    {
+      "name": "O Goshi (Major Hip Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "65"
+    },
+    {
+      "name": "Seoi Nage (Shoulder Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "40, 46",
+      "pages_kirby99": "",
+      "pages_kodokan97": "67, 149"
+    },
+    {
+      "name": "Tai Otoshi (Body Drop)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "42",
+      "pages_kirby99": "",
+      "pages_kodokan97": "73"
+    },
+    {
+      "name": "Uki Goshi (Floating Hip Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "63, 151"
+    },
+    {
+      "name": "Harai  Goshi (Sweeping Hip Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "54",
+      "pages_kirby99": "",
+      "pages_kodokan97": "74, 150"
+    },
+    {
+      "name": "Hane Goshi (Spring Hip Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "68",
+      "pages_kirby99": "",
+      "pages_kodokan97": "80"
+    },
+    {
+      "name": "Uchi Mata (Inner Thigh Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "75, 102, 154"
+    },
+    {
+      "name": "Ura Nage (Rear Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "STANDING TECHNIQUES (TACHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "80, 116, 122",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Single-leg takedown",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Double-leg takedown",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Head winding throw",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "110",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Sleeve Pivot Throw",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "90",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Corkscrew Throw (from Kote Hineri)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "58",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Sumi Otoshi (Corner Drop)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "98"
+    },
+    {
+      "name": "Ude Guruma Makikomi (Arm Wheel Winding Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "62, 100",
+      "pages_kirby99": "194",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Uki Otoshi (Floating Drop)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "OTHER  ",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "91, 148"
+    },
+    {
+      "name": "O Soto Gari (Big Outer Reap)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "64",
+      "pages_kirby99": "",
+      "pages_kodokan97": "64"
+    },
+    {
+      "name": "O Uchi Gari (Big Inner Reap)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "66"
+    },
+    {
+      "name": "De Ashi Harai (Forward Foot Sweep)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "60"
+    },
+    {
+      "name": "Sasae Tsurikomi Ashi (Suporting Foot Lift-Pull)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "62, 153"
+    },
+    {
+      "name": "Hiza Guruma (Knee Wheel)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "61"
+    },
+    {
+      "name": "Kosoto Gake (Small Outer Hook)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "76"
+    },
+    {
+      "name": "Kouchi Gari (Small Inside Reap)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "69"
+    },
+    {
+      "name": "Kosoto Gari (Small Outer Reap)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "68"
+    },
+    {
+      "name": "Okuri Ashi Harai (Side Foot Sweep)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown2",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "72, 152"
+    },
+    {
+      "name": "Tani Otoshi (Valley Drop)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "80"
+    },
+    {
+      "name": "Yoko Otoshi (Side Drop)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "78"
+    },
+    {
+      "name": "Yoko Wakare (Side Separation)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "94"
+    },
+    {
+      "name": "Soto Makikomi (Outside Winding Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "76",
+      "pages_kirby99": "",
+      "pages_kodokan97": "90"
+    },
+    {
+      "name": "Sumi Gaeshi (Corner Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "84, 156"
+    },
+    {
+      "name": "Tomoenage (Comma-shaped Throw)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "70",
+      "pages_kirby99": "",
+      "pages_kodokan97": "82, 154"
+    },
+    {
+      "name": "Uki Waza (Floating Throw Technique)",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "93, 158"
+    },
+    {
+      "name": "Yoko Gake (Side Body Drop --\"Side Hook\")",
+      "categories": [
+        "THROWING TECHNIQUES (NAGE WAZA)",
+        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
+        "HIP TECHNIQUES (KOSHI WAZA)  "
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "99, 157"
+    },
+    {
+      "name": "Strike (Atemi)",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "196"
+    },
+    {
+      "name": "Kick (Geri)",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "78, 80",
+      "pages_kirby99": "96, 100",
+      "pages_kodokan97": "198"
+    },
+    {
+      "name": "Single-wrist grab",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "yellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Double-wrist grab (front, rear)",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Headlock",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "50, 112",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Front Choke",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "48, 110",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Rear Choke (forearm)",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "46",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Rear Bearhug ",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "44, 76",
+      "pages_kirby99": "",
+      "pages_kodokan97": "90"
+    },
+    {
+      "name": "Football Tackle",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Lapel Grab",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "98",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Rear Choke (arms extended)",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Front Bearhug",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "86",
+      "pages_kirby99": "",
+      "pages_kodokan97": "66"
+    },
+    {
+      "name": "Handshake",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Hair Grab",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "82, 83",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Shoulder Grab",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "208"
+    },
+    {
+      "name": "Mugging Attack",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "104",
+      "pages_kirby99": "",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Full Nelson",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST UNARMED ATTACKS"
+      ],
+      "belt": "brown3",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "150, 152",
+      "pages_kodokan97": ""
+    },
+    {
+      "name": "Knife",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST ARMED ATTACKS"
+      ],
+      "belt": "green",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "52, 58",
+      "pages_kirby99": "",
+      "pages_kodokan97": "199, 200"
+    },
+    {
+      "name": "Club",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST ARMED ATTACKS"
+      ],
+      "belt": "greenyellow",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "60",
+      "pages_kirby99": "",
+      "pages_kodokan97": "200, 201"
+    },
+    {
+      "name": "Gun",
+      "categories": [
+        "SELF-DEFENSE",
+        "AGAINST ARMED ATTACKS"
+      ],
+      "belt": "purple",
+      "video": "",
+      "description": "",
+      "pages_kirby83": "",
+      "pages_kirby99": "",
+      "pages_kodokan97": "202, 203"
     }
   ]
 }
