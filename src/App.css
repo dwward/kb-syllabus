@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+
+}
+
+.App-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.techniqueList {
+}
+
+.techniqueCard {
+    display: inline-block;
+    padding: 4px;
+}
+
+.techniqueCard .MuiPaper-root {
+    border: solid lightgray 1px;
+}
+
+.beltLabelDefault {
+    border: solid lightgray 1px;
+    padding: 5px;
+    font-weight: bold;
+    width: 100%;
+    text-transform: capitalize;
+}

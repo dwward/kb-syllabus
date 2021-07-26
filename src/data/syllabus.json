@@ -1,0 +1,56 @@
+{
+  "belts": [
+    "white",
+    "yellow",
+    "green",
+    "greenYellow",
+    "purple",
+    "brown3",
+    "brown2",
+    "brown1",
+    "black"
+  ],
+  "books": [
+    "Kirby, George (1983).  Jujitsu: Basic techniques of the gentle art.  Santa Clarita, CA.  Ohara Publications.",
+    "Kirby, George (1999).  Intermediate techniques of jujitsu, the gentle art.  Santa Clarita, CA.  Ohara Publications."
+  ],
+  "techniques": [
+    {
+      "name": "Back Fall (Ushiro Ukemi)",
+      "description": "Fall on your back",
+      "belt": "yellow",
+      "video": {
+        "type": "video",
+        "title": "How to do a backfall",
+        "url": "https://www.youtube.com/watch?v=JvLKqk06SJg"
+      },
+      "books": [
+        {
+          "type": "book",
+          "title": "Kirby",
+          "pages": "32"
+        }
+      ]
+    },
+    {
+      "name": "Waki Gatame (Armpit Lock)",
+      "description": "Standing arm lock",
+      "belt": "yellow",
+      "video": {
+        "type": "video",
+        "title": "Waki Gatame",
+        "url": "https://www.youtube.com/watch?v=9TKlUtn-M8s"
+      },
+      "books": [
+        {
+          "title": "Kirby2",
+          "pages": "130"
+        },
+        {
+          "title": "Kodokan Judo",
+          "pages": "129"
+        }
+      ]
+    }
+  ]
+}
