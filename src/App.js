@@ -6,9 +6,9 @@ import {Typography} from "@material-ui/core";
 
 function App() {
 
-    let state= {
-        isViewingVideo: false
-    }
+    // let state= {
+    //     isViewingVideo: false
+    // }
 
     return (
         <div className="App">
