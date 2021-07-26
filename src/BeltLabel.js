@@ -4,23 +4,42 @@ import { makeStyles } from '@material-ui/core/styles';
 const useStyles = makeStyles((theme) => ({
     green: {
         backgroundColor: "green",
-        color: "white",
+        color: "white"
     },
     yellow: {
-        backgroundColor: "yellow",
+        backgroundColor: "yellow"
     },
-    yellowGreen: {
-        color: "white",
-        textShadow: "black 1px 0 10px",
+    greenyellow: {
+        color: "black",
+        textShadow: "white 1px 0 5px",
         background: "linear-gradient(to bottom, green, green 50%, yellow 50%, yellow)"
+    },
+    purple: {
+        color: "white",
+        backgroundColor: "purple"
+    },
+    brown3: {
+        color: "white",
+        backgroundColor: "saddlebrown"
+    },
+    brown2: {
+        color: "white",
+        backgroundColor: "saddlebrown"
+    },
+    brown1: {
+        color: "white",
+        backgroundColor: "saddlebrown"
     }
+
 }));
 
 export default function BeltLabel(props) {
     const classes = useStyles();
     const beltColor = props.beltColor;
+    const formattedBeltLabel = beltColor.replace(/\s+/g, '').toLowerCase();
+    console.log(formattedBeltLabel)
     return (
-        <div className={classes[beltColor]+" beltLabelDefault"}>{beltColor} Belt</div>
+        <div className={classes[formattedBeltLabel]+" beltLabelDefault"}>{props.beltColor} Belt</div>
     )
 }
 

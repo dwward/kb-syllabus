@@ -31,19 +31,19 @@ def isCategory(row):
 
 def beltTest(row):
     if row[3]:
-        return "yellow"
+        return "Yellow"
     if row[5]:
-        return "green"
+        return "Green"
     if row[7]:
-        return "greenyellow"
+        return "Green Yellow"
     if row[9]:
-        return "purple"
+        return "Purple"
     if row[11]:
-        return "brown3"
+        return "Brown 3"
     if row[13]:
-        return "brown2"
+        return "Brown 2"
     if row[15]:
-        return "brown1"
+        return "Brown 1"
     raise ("Can't find belt test")
 
 def getKirby83Pages(row):

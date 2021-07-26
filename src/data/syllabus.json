@@ -3,11 +3,11 @@
     "white",
     "yellow",
     "green",
-    "greenYellow",
+    "green yellow",
     "purple",
-    "brown3",
-    "brown2",
-    "brown1",
+    "brown 3",
+    "brown 2",
+    "brown 1",
     "black"
   ],
   "books": [
@@ -30,8 +30,8 @@
       "categories": [
         "FALLS (UKEMI)"
       ],
-      "belt": "yellow",
-      "video": "",
+      "belt": "Yellow",
+      "video": "https://www.youtube.com/watch?v=_g7rvsxTkz8",
       "description": "",
       "pages_kirby83": "32",
       "pages_kirby99": "",
@@ -42,8 +42,8 @@
       "categories": [
         "FALLS (UKEMI)"
       ],
-      "belt": "yellow",
-      "video": "",
+      "belt": "Yellow",
+      "video": "https://www.youtube.com/watch?v=JCwK1Ia4jsc",
       "description": "",
       "pages_kirby83": "30",
       "pages_kirby99": "",
@@ -54,8 +54,8 @@
       "categories": [
         "FALLS (UKEMI)"
       ],
-      "belt": "green",
-      "video": "https://youtu.be/VoktcQAxEPg?t=100",
+      "belt": "Green",
+      "video": "https://www.youtube.com/watch?v=veM5RFdjo0U",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
@@ -66,7 +66,7 @@
       "categories": [
         "ROLLS (KAITEN UKEMI)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "34, 36",
@@ -78,7 +78,7 @@
       "categories": [
         "OFF-BALANCING (KUSUSHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -90,7 +90,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -102,7 +102,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "52",
@@ -114,7 +114,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "58, 84",
@@ -126,7 +126,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "94, 96",
@@ -138,7 +138,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "60, 116",
@@ -150,7 +150,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "98, 104, 106",
@@ -162,7 +162,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "84",
@@ -174,7 +174,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "92",
@@ -186,7 +186,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -198,7 +198,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "74, 88",
@@ -210,7 +210,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "104, 106",
@@ -222,7 +222,7 @@
       "categories": [
         "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
       ],
-      "belt": "brown1",
+      "belt": "Brown 1",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -234,7 +234,7 @@
       "categories": [
         "NERVE TECHNIQUES (SHIOKU WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "48",
@@ -246,7 +246,7 @@
       "categories": [
         "NERVE TECHNIQUES (SHIOKU WAZA)"
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "66",
@@ -258,7 +258,7 @@
       "categories": [
         "NERVE TECHNIQUES (SHIOKU WAZA)"
       ],
-      "belt": "brown1",
+      "belt": "Brown 1",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -271,7 +271,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "POSITIONS"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -284,7 +284,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "POSITIONS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -297,7 +297,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "POSITIONS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -310,7 +310,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "PINS (OSAE-KOMI WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -323,7 +323,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "PINS (OSAE-KOMI WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -336,7 +336,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "PINS (OSAE-KOMI WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -349,7 +349,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "PINS (OSAE-KOMI WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -362,7 +362,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -375,7 +375,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -388,7 +388,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -401,7 +401,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -414,7 +414,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -427,7 +427,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "ESCAPES"
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -440,7 +440,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -453,7 +453,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -466,7 +466,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -479,7 +479,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -492,7 +492,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -505,7 +505,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "JOINT LOCKS (KANSETSU WAZA)"
       ],
-      "belt": "brown1",
+      "belt": "Brown 1",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -518,7 +518,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -531,7 +531,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -544,7 +544,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -557,7 +557,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -570,7 +570,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -583,7 +583,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -596,7 +596,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -609,7 +609,7 @@
         "GROUND TECHNIQUES (NE WAZA)  ",
         "CHOKES (SHIME WAZA)"
       ],
-      "belt": "brown1",
+      "belt": "Brown 1",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -622,7 +622,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -635,7 +635,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -648,7 +648,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -661,7 +661,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -674,7 +674,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -687,7 +687,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -700,7 +700,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -713,7 +713,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -726,7 +726,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -739,7 +739,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "HAND AND ARM STRIKES (UCHI)"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -752,7 +752,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "KICKING TECHNIQUES (GERI WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -765,7 +765,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "KICKING TECHNIQUES (GERI WAZA)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -778,7 +778,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "KICKING TECHNIQUES (GERI WAZA)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -791,7 +791,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "KICKING TECHNIQUES (GERI WAZA)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -804,7 +804,7 @@
         "STRIKING TECHNIQUES (ATEMI WAZA) ",
         "KICKING TECHNIQUES (GERI WAZA)"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -818,7 +818,7 @@
         "Blocking (Te No Tatake) ",
         "Jodan (High-Level)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -832,7 +832,7 @@
         "Blocking (Te No Tatake) ",
         "Jodan (High-Level)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -846,7 +846,7 @@
         "Blocking (Te No Tatake) ",
         "Chudan (Middle-Level)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -860,7 +860,7 @@
         "Blocking (Te No Tatake) ",
         "Chudan (Middle-Level)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -874,7 +874,7 @@
         "Blocking (Te No Tatake) ",
         "Chudan (Middle-Level)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -888,7 +888,7 @@
         "Blocking (Te No Tatake) ",
         "Chudan (Middle-Level)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -902,7 +902,7 @@
         "Blocking (Te No Tatake) ",
         "Gedan (Low-Level)"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -916,7 +916,7 @@
         "Blocking (Te No Tatake) ",
         "Gedan (Low-Level)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -930,7 +930,7 @@
         "Blocking (Te No Tatake) ",
         "Gedan (Low-Level)"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -944,7 +944,7 @@
         "Blocking (Te No Tatake) ",
         "Gedan (Low-Level)"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -958,7 +958,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "66",
@@ -972,7 +972,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -986,7 +986,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "40, 46",
@@ -1000,7 +1000,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "42",
@@ -1014,7 +1014,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1028,7 +1028,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "54",
@@ -1042,7 +1042,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "68",
@@ -1056,7 +1056,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1070,7 +1070,7 @@
         "STANDING TECHNIQUES (TACHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1084,7 +1084,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1098,7 +1098,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1112,7 +1112,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "110",
@@ -1126,7 +1126,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "90",
@@ -1140,7 +1140,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "58",
@@ -1154,7 +1154,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1168,7 +1168,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "62, 100",
@@ -1182,7 +1182,7 @@
         "OTHER  ",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1196,7 +1196,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "64",
@@ -1210,7 +1210,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1224,7 +1224,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1238,7 +1238,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1252,7 +1252,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1266,7 +1266,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1280,7 +1280,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1294,7 +1294,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1308,7 +1308,7 @@
         "FOOT/LEG TECHNIQUES (ASHI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown2",
+      "belt": "Brown 2",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1322,7 +1322,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1336,7 +1336,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1350,7 +1350,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1364,7 +1364,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "76",
@@ -1378,7 +1378,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1392,7 +1392,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "70",
@@ -1406,7 +1406,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1420,7 +1420,7 @@
         "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
         "HIP TECHNIQUES (KOSHI WAZA)  "
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1433,7 +1433,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1446,7 +1446,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "78, 80",
@@ -1459,7 +1459,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "yellow",
+      "belt": "Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1472,7 +1472,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1485,7 +1485,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "50, 112",
@@ -1498,7 +1498,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "48, 110",
@@ -1511,7 +1511,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "46",
@@ -1524,7 +1524,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "44, 76",
@@ -1537,7 +1537,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1550,7 +1550,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "98",
@@ -1563,7 +1563,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1576,7 +1576,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "86",
@@ -1589,7 +1589,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1602,7 +1602,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "82, 83",
@@ -1615,7 +1615,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1628,7 +1628,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "104",
@@ -1641,7 +1641,7 @@
         "SELF-DEFENSE",
         "AGAINST UNARMED ATTACKS"
       ],
-      "belt": "brown3",
+      "belt": "Brown 3",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1654,7 +1654,7 @@
         "SELF-DEFENSE",
         "AGAINST ARMED ATTACKS"
       ],
-      "belt": "green",
+      "belt": "Green",
       "video": "",
       "description": "",
       "pages_kirby83": "52, 58",
@@ -1667,7 +1667,7 @@
         "SELF-DEFENSE",
         "AGAINST ARMED ATTACKS"
       ],
-      "belt": "greenyellow",
+      "belt": "Green Yellow",
       "video": "",
       "description": "",
       "pages_kirby83": "60",
@@ -1680,7 +1680,7 @@
         "SELF-DEFENSE",
         "AGAINST ARMED ATTACKS"
       ],
-      "belt": "purple",
+      "belt": "Purple",
       "video": "",
       "description": "",
       "pages_kirby83": "",
@@ -1688,4 +1688,5 @@
       "pages_kodokan97": "202, 203"
     }
   ]
+
 }

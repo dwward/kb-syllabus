@@ -1,5 +1,5 @@
 import './App.css';
-import Belts from './Belts'
+import BeltFilter from './BeltFilter'
 import TechniqueFilter from "./TechiniqueFilter";
 import TechniqueList from "./TechniqueList";
 import {Typography} from "@material-ui/core";
@@ -16,7 +16,7 @@ function App() {
                 <Typography variant="h4" component="h4">Kaiwan Budokai Syllabus</Typography>
                 <TechniqueFilter />
             </header>
-            <Belts />
+            <BeltFilter />
             <TechniqueList />
         </div>
 );

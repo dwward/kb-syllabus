@@ -30,17 +30,13 @@ const useStyles = makeStyles({
 export default function TechniqueCard(props) {
     const classes = useStyles();
 
-    function hasUrl(url) {
-        return (props.video != null && props.video !== '');
-    }
-
-    function getThumb(url) {
-        if (!hasUrl(url)) {
+    function getThumb(video) {
+        if (video == null || video === '') {
             return "novideo.png"
         }
-        var ytl = url.split("?t=")[0] // remove timestamp before finding thumbnail
-        var yti = ytl.match(/(?:https?:\/{2})?(?:w{3}\.)?youtu(?:be)?\.(?:com|be)(?:\/watch\?v=|\/)([^\s&]+)/);
-        var thumbUrl = "http://i3.ytimg.com/vi/" + yti[1] + "/hqdefault.jpg";
+        let ytl = video.split("?t=")[0] // remove timestamp before finding thumbnail
+        let yti = ytl.match(/(?:https?:\/{2})?(?:w{3}\.)?youtu(?:be)?\.(?:com|be)(?:\/watch\?v=|\/)([^\s&]+)/);
+        let thumbUrl = "http://i3.ytimg.com/vi/" + yti[1] + "/hqdefault.jpg";
         return thumbUrl;
     }
 
@@ -61,7 +57,7 @@ export default function TechniqueCard(props) {
                     </CardContent>
                 </CardActionArea>
                 <CardActions className={classes.actions}>
-                    <BeltLabel beltColor={props.beltColor} />
+                    <BeltLabel beltColor={props.belt} />
                 </CardActions>
             </Card>
         </div>

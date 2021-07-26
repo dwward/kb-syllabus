@@ -8,7 +8,7 @@ export default function TechniqueList() {
             {
                 Data.techniques.map(t => {
                     return <span>
-                    <TechniqueCard title={t.name} video={t.video} beltColor={t.belt} />
+                    <TechniqueCard title={t.name} video={t.video} belt={t.belt} />
                     </span>
 
                 })

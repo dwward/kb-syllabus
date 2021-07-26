@@ -2,7 +2,7 @@ import React from "react";
 import Data from './data/syllabus.json';
 import {Button} from "@material-ui/core";
 
-export default function Belts() {
+export default function BeltFilter() {
 
     function selectBelt(e) {
         e.preventDefault();

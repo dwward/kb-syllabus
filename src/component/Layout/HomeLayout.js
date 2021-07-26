@@ -1,5 +1,5 @@
 import React from 'react';
-import Belts from "../../Belts";
+import Belts from "../../BeltFilter";
 import {Typography} from "@material-ui/core";
 import TechniqueFilter from "../../TechiniqueFilter";
 import TechniqueList from "../../TechniqueList";
