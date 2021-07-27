@@ -4,11 +4,6 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 
 export default function TechniqueFilter() {
 
-    // function selectBelt(e) {
-    //     e.preventDefault();
-    //     console.log('You clicked submit.');
-    // }
-
     return (
         <div style={{ width: 300, paddingLeft: 60 }}>
             <Autocomplete

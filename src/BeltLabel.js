@@ -37,7 +37,6 @@ export default function BeltLabel(props) {
     const classes = useStyles();
     const beltColor = props.beltColor;
     const formattedBeltLabel = beltColor.replace(/\s+/g, '').toLowerCase();
-    console.log(formattedBeltLabel)
     return (
         <div className={classes[formattedBeltLabel]+" beltLabelDefault"}>{props.beltColor} Belt</div>
     )

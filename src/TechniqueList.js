@@ -1,12 +1,14 @@
-import Data from './data/syllabus.json';
 import TechniqueCard from "./TechniqueCard";
+import {useEffect} from "react";
 
-export default function TechniqueList() {
+export default function TechniqueList(props) {
+
+
 
     return (
         <div class="techniqueList">
             {
-                Data.techniques.map(t => {
+                props.syllabus.techniques.map(t => {
                     return <span>
                     <TechniqueCard title={t.name} video={t.video} belt={t.belt} />
                     </span>
