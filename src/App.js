@@ -15,12 +15,14 @@ function App() {
     const [selectedBelt, setSelectedBelt] = useState('');
     const [searchText, setSearchText] = useState('');
 
+
     const filterBelt = (color) => {
         if (color == '') {
             setSelectedBelt('');
             setSyllabus(originalSyllabusData);
             return;
         }
+        setSearchText('')
         setSelectedBelt(color);
         let tmpSyllabus = Object.assign({}, originalSyllabusData);
         let filterTechs = tmpSyllabus.techniques.filter(t => t.belt.toUpperCase() === color.toUpperCase());
@@ -29,17 +31,17 @@ function App() {
     }
 
     const filterText = (text) => {
-        setSearchText(text)
-    }
-
-    const filterTechniques = () => {
-        ;
+        setSearchText(text);
+        let tmpSyllabus = Object.assign({}, originalSyllabusData);
+        let filterTechs = tmpSyllabus.techniques.filter(t => t.name.toUpperCase().indexOf(text.toUpperCase())>=0);
+        tmpSyllabus.techniques = filterTechs;
+        setSyllabus(tmpSyllabus);
     }
 
     return (
         <div className="App">
             <header className="App-header">
-                <Typography variant="h4" component="h4">Kaiwan Budokai Syllabus</Typography>
+                <Typography variant="h4">Kaiwan Budokai Syllabus</Typography>
                 <TechniqueFilter filterText={filterText} />
                 {/*<img src={'kblogo-lg.jpg'} class="kblogo" />*/}
             </header>

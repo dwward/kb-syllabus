@@ -9,7 +9,7 @@ export default function BeltFilter(props) {
     const handleChange = (event) => {
         let tmpBelt = event.target.value;
         props.filterBelt(tmpBelt);
-    };
+    }
 
     const useStyles = makeStyles((theme) => ({
         formControl: {
@@ -20,25 +20,24 @@ export default function BeltFilter(props) {
         selectEmpty: {
             marginTop: theme.spacing(2),
         },
-    }));
+    }))
     const classes = useStyles();
 
     return (
         <FormControl variant="filled" className={classes.formControl}>
             <InputLabel htmlFor="filled-age-native-simple">Belt Test</InputLabel>
             <Select
-                    value={props.beltColor}
-                    onChange={handleChange}
+                value={props.beltColor}
+                onChange={handleChange}
             >
-                <MenuItem value=''>Show All</MenuItem>
+                <MenuItem key="select" value=''>Show All</MenuItem>
                 {
                     beltTestColors.map(curr => {
-                        return <MenuItem value={curr}>{curr}</MenuItem>
+                        return <MenuItem key={curr} value={curr}>{curr}</MenuItem>
                     })
                 }
             </Select>
         </FormControl>
-
     )
 }
 

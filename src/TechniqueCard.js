@@ -42,7 +42,7 @@ export default function TechniqueCard(props) {
 
 
     return (
-        <div class="techniqueCard">
+        <div className="techniqueCard">
             <Card className={classes.root}>
                 <CardActionArea>
                     <CardMedia
@@ -51,7 +51,7 @@ export default function TechniqueCard(props) {
                         title={props.title}
                     />
                     <CardContent>
-                        <Typography gutterBottom variant="subtitle2" component="subtitle2">
+                        <Typography gutterBottom variant="subtitle1">
                             {props.title}
                         </Typography>
                     </CardContent>
