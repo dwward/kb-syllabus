@@ -14,9 +14,8 @@ export default function TechniqueFilter(props) {
     return (
         <div style={{ width: '80%', padding: 0 }}>
             <Autocomplete
-                key={1}
+                key={props.keyAutocomplete}
                 freeSolo={true}
-                id="technique-filter"
                 options={syllabus.techniques}
                 // strips the categories of any labels in parenthesis () and concatenates them with delimiter '>'
                 groupBy={(option) => option.categories.map(opt => (opt.indexOf(' (')==-1 ? opt : opt.slice(0, opt.indexOf(' (')))).join(' > ')}
