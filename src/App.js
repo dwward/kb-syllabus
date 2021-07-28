@@ -13,7 +13,7 @@ function App() {
     const originalSyllabusData = Data;
     const [syllabus, setSyllabus] = useState(Data);
     const [selectedBelt, setSelectedBelt] = useState('');
-    const [searchText, setSelectedCategory] = useState('');
+    const [searchText, setSearchText] = useState('');
 
     const filterBelt = (color) => {
         if (color == '') {
@@ -28,20 +28,19 @@ function App() {
         setSyllabus(tmpSyllabus);
     }
 
-    const filterCategory = (cat) => {
-
+    const filterText = (text) => {
+        setSearchText(text)
     }
 
     const filterTechniques = () => {
-        // call setstate of child should cause re-render
-        // techniquelist.setstate(...)
+        ;
     }
 
     return (
         <div className="App">
             <header className="App-header">
                 <Typography variant="h4" component="h4">Kaiwan Budokai Syllabus</Typography>
-                <TechniqueFilter />
+                <TechniqueFilter filterText={filterText} />
                 {/*<img src={'kblogo-lg.jpg'} class="kblogo" />*/}
             </header>
             {/*<CategoryFilter category={selectedCategory} filterCategory={filterCategory} />*/}

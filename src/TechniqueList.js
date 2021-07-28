@@ -2,9 +2,6 @@ import TechniqueCard from "./TechniqueCard";
 import {useEffect} from "react";
 
 export default function TechniqueList(props) {
-
-
-
     return (
         <div class="techniqueList">
             {
