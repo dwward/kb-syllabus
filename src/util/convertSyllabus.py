@@ -104,16 +104,16 @@ with open('Jujitsu-Syllabus-201701.csv', 'r') as read_obj:
                 t = {}
 
                 # technique name
-                t['name'] = row[0]
+                t['name'] = row[0].strip()
 
                 # categories
                 categories = []
                 if category1:
-                    categories.append(category1);
+                    categories.append(category1.strip().title())
                 if category2:
-                    categories.append(category2);
+                    categories.append(category2.strip().title())
                 if category3:
-                    categories.append(category3);
+                    categories.append(category3.strip().title())
                 t['categories'] = categories
 
                 # belt tested

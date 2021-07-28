@@ -5,7 +5,7 @@ import TechniqueList from "./TechniqueList";
 import {Typography} from "@material-ui/core";
 import Data from './data/syllabus.json';
 import React, {useState} from "react";
-import CategoryFilter from "./CategoryFilter";
+
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
     const originalSyllabusData = Data;
     const [syllabus, setSyllabus] = useState(Data);
     const [selectedBelt, setSelectedBelt] = useState('');
-    const [selectedCategory, setSelectedCategory] = useState('');
+    const [searchText, setSelectedCategory] = useState('');
 
     const filterBelt = (color) => {
         if (color == '') {

@@ -28,10 +28,10 @@
     {
       "name": "Back Fall (Ushiro Ukemi)",
       "categories": [
-        "FALLS (UKEMI)"
+        "Falls (Ukemi)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=_g7rvsxTkz8",
+      "video": "",
       "description": "",
       "pages_kirby83": "32",
       "pages_kirby99": "",
@@ -40,10 +40,10 @@
     {
       "name": "Side Fall (Yoko Ukemi)",
       "categories": [
-        "FALLS (UKEMI)"
+        "Falls (Ukemi)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=JCwK1Ia4jsc",
+      "video": "",
       "description": "",
       "pages_kirby83": "30",
       "pages_kirby99": "",
@@ -52,10 +52,10 @@
     {
       "name": "Front Fall (Mae Ukemi)",
       "categories": [
-        "FALLS (UKEMI)"
+        "Falls (Ukemi)"
       ],
       "belt": "Green",
-      "video": "https://www.youtube.com/watch?v=veM5RFdjo0U",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
@@ -64,10 +64,10 @@
     {
       "name": "Front Roll (Zempo Kaiten Ukemi)",
       "categories": [
-        "ROLLS (KAITEN UKEMI)"
+        "Rolls (Kaiten Ukemi)"
       ],
       "belt": "Green",
-      "video": "https://www.youtube.com/watch?v=SvF0g7rhQII",
+      "video": "",
       "description": "",
       "pages_kirby83": "34, 36",
       "pages_kirby99": "",
@@ -76,7 +76,7 @@
     {
       "name": "Eight Ways Off-Balancing (Happo No Kusushi)",
       "categories": [
-        "OFF-BALANCING (KUSUSHI)"
+        "Off-Balancing (Kusushi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -88,7 +88,7 @@
     {
       "name": "Waki Gatame (Armpit Lock)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -100,7 +100,7 @@
     {
       "name": "Kote Gaeshi (Wrist Reversal)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -112,7 +112,7 @@
     {
       "name": "Kote Hineri (Wrist Twist)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -124,7 +124,7 @@
     {
       "name": "Shiho Nage (Four Directions Throw)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -134,9 +134,9 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Ude Garame (Arm Entanglement) ",
+      "name": "Ude Garame (Arm Entanglement)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -148,7 +148,7 @@
     {
       "name": "Elbow Takedown",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -160,7 +160,7 @@
     {
       "name": "Hammer Lock",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -172,7 +172,7 @@
     {
       "name": "Wristlock Takedown",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -184,7 +184,7 @@
     {
       "name": "Kote Mawashi (Wrist Turn)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -196,7 +196,7 @@
     {
       "name": "Yubi Nage (Finger Throw)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -206,9 +206,9 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Oshi Taoshi (Push Down) [Elbow Roll] ",
+      "name": "Oshi Taoshi (Push Down) [Elbow Roll]",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -218,9 +218,9 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Ude Gatame (Arm Lock) ",
+      "name": "Ude Gatame (Arm Lock)",
       "categories": [
-        "ARM/HAND TECHNIQUES (UDE/TE WAZA)"
+        "Arm/Hand Techniques (Ude/Te Waza)"
       ],
       "belt": "Brown 1",
       "video": "",
@@ -232,7 +232,7 @@
     {
       "name": "Trachea Thrust",
       "categories": [
-        "NERVE TECHNIQUES (SHIOKU WAZA)"
+        "Nerve Techniques (Shioku Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -244,7 +244,7 @@
     {
       "name": "Mastoid Press",
       "categories": [
-        "NERVE TECHNIQUES (SHIOKU WAZA)"
+        "Nerve Techniques (Shioku Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -256,7 +256,7 @@
     {
       "name": "Radial Nerve",
       "categories": [
-        "NERVE TECHNIQUES (SHIOKU WAZA)"
+        "Nerve Techniques (Shioku Waza)"
       ],
       "belt": "Brown 1",
       "video": "",
@@ -268,8 +268,8 @@
     {
       "name": "Guard",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "POSITIONS"
+        "Ground Techniques (Ne Waza)",
+        "Positions"
       ],
       "belt": "Yellow",
       "video": "",
@@ -281,8 +281,8 @@
     {
       "name": "Mount",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "POSITIONS"
+        "Ground Techniques (Ne Waza)",
+        "Positions"
       ],
       "belt": "Green",
       "video": "",
@@ -294,8 +294,8 @@
     {
       "name": "Back Mount (Figure 4)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "POSITIONS"
+        "Ground Techniques (Ne Waza)",
+        "Positions"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -307,8 +307,8 @@
     {
       "name": "Hon Kesa Gatame (Scarf Hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "PINS (OSAE-KOMI WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Pins (Osae-Komi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -320,8 +320,8 @@
     {
       "name": "Yoko Shiho Gatame (Side 4-corner hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "PINS (OSAE-KOMI WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -333,8 +333,8 @@
     {
       "name": "Kata Gatame (Shoulder Hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "PINS (OSAE-KOMI WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -346,8 +346,8 @@
     {
       "name": "Kami Shiho Gatame (Top 4-corner hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "PINS (OSAE-KOMI WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -359,8 +359,8 @@
     {
       "name": "From Guard",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Yellow",
       "video": "",
@@ -372,8 +372,8 @@
     {
       "name": "From Mount Position",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Green",
       "video": "",
@@ -385,8 +385,8 @@
     {
       "name": "From Hon Kesa Gatame (Scarf Hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -398,8 +398,8 @@
     {
       "name": "From Yoko Shiho Gatame (Side 4-corner hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -411,8 +411,8 @@
     {
       "name": "From Kata Gatame (Shoulder Hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -424,8 +424,8 @@
     {
       "name": "Fron Kami Shiho Gatame (Top 4-corner hold)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "ESCAPES"
+        "Ground Techniques (Ne Waza)",
+        "Escapes"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -435,10 +435,10 @@
       "pages_kodokan97": "113"
     },
     {
-      "name": "Juji Gatame (Cross Lock) ",
+      "name": "Juji Gatame (Cross Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -450,8 +450,8 @@
     {
       "name": "Ude Garame (Arm Entanglement)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -463,8 +463,8 @@
     {
       "name": "Sankaku Gatame (Triangle Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -476,8 +476,8 @@
     {
       "name": "Waki Gatame (Armpit Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -489,8 +489,8 @@
     {
       "name": "Ude Gatame (Arm Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -502,8 +502,8 @@
     {
       "name": "Hiza Gatame (Knee Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "JOINT LOCKS (KANSETSU WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Joint Locks (Kansetsu Waza)"
       ],
       "belt": "Brown 1",
       "video": "",
@@ -513,10 +513,10 @@
       "pages_kodokan97": "130, 170"
     },
     {
-      "name": "Hadaka-jime (Naked Choke) ",
+      "name": "Hadaka-jime (Naked Choke)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -526,10 +526,10 @@
       "pages_kodokan97": "120,166"
     },
     {
-      "name": "Kata-ha-jime (Single-wing Lock)  ",
+      "name": "Kata-ha-jime (Single-wing Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -541,8 +541,8 @@
     {
       "name": "Gyaku-juji-jime (Reverse Cross Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -554,8 +554,8 @@
     {
       "name": "Okuri-eri-jime (Sliding Collar Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -567,8 +567,8 @@
     {
       "name": "Nami-juji-jime (Normal Cross Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -578,10 +578,10 @@
       "pages_kodokan97": "117, 165"
     },
     {
-      "name": "Kata-juji-jime (Half-cross Lock) ",
+      "name": "Kata-juji-jime (Half-cross Lock)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -593,8 +593,8 @@
     {
       "name": "Sode-guruma-jime (Sleeve Wheel Choke)",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -606,8 +606,8 @@
     {
       "name": "Guillotine choke",
       "categories": [
-        "GROUND TECHNIQUES (NE WAZA)  ",
-        "CHOKES (SHIME WAZA)"
+        "Ground Techniques (Ne Waza)",
+        "Chokes (Shime Waza)"
       ],
       "belt": "Brown 1",
       "video": "",
@@ -619,8 +619,8 @@
     {
       "name": "Jab",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -632,8 +632,8 @@
     {
       "name": "Hook",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -645,8 +645,8 @@
     {
       "name": "Cross",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -656,10 +656,10 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Straight Punch ",
+      "name": "Straight Punch",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -671,8 +671,8 @@
     {
       "name": "Upper cut",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -684,8 +684,8 @@
     {
       "name": "Palm Strike",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Green",
       "video": "",
@@ -695,10 +695,10 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Chop ",
+      "name": "Chop",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Green",
       "video": "",
@@ -710,8 +710,8 @@
     {
       "name": "Backhand",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -723,8 +723,8 @@
     {
       "name": "Elbow Strike",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Purple",
       "video": "",
@@ -736,8 +736,8 @@
     {
       "name": "(Head Butt)",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "HAND AND ARM STRIKES (UCHI)"
+        "Striking Techniques (Atemi Waza)",
+        "Hand And Arm Strikes (Uchi)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -749,8 +749,8 @@
     {
       "name": "Mae Geri (Front Kick)",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "KICKING TECHNIQUES (GERI WAZA)"
+        "Striking Techniques (Atemi Waza)",
+        "Kicking Techniques (Geri Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -762,8 +762,8 @@
     {
       "name": "Roundhouse Kick",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "KICKING TECHNIQUES (GERI WAZA)"
+        "Striking Techniques (Atemi Waza)",
+        "Kicking Techniques (Geri Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -775,8 +775,8 @@
     {
       "name": "Side Kick",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "KICKING TECHNIQUES (GERI WAZA)"
+        "Striking Techniques (Atemi Waza)",
+        "Kicking Techniques (Geri Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -786,10 +786,10 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Fumi (Stomp) ",
+      "name": "Fumi (Stomp)",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "KICKING TECHNIQUES (GERI WAZA)"
+        "Striking Techniques (Atemi Waza)",
+        "Kicking Techniques (Geri Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -801,8 +801,8 @@
     {
       "name": "Back Kick",
       "categories": [
-        "STRIKING TECHNIQUES (ATEMI WAZA) ",
-        "KICKING TECHNIQUES (GERI WAZA)"
+        "Striking Techniques (Atemi Waza)",
+        "Kicking Techniques (Geri Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -814,8 +814,8 @@
     {
       "name": "Single-arm block",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Jodan (High-Level)"
       ],
       "belt": "Yellow",
@@ -828,8 +828,8 @@
     {
       "name": "Juji (Cross block)",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Jodan (High-Level)"
       ],
       "belt": "Green",
@@ -842,8 +842,8 @@
     {
       "name": "Outside",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Chudan (Middle-Level)"
       ],
       "belt": "Yellow",
@@ -856,8 +856,8 @@
     {
       "name": "Inside",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Chudan (Middle-Level)"
       ],
       "belt": "Yellow",
@@ -870,8 +870,8 @@
     {
       "name": "Circle/Arc",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Chudan (Middle-Level)"
       ],
       "belt": "Yellow",
@@ -884,8 +884,8 @@
     {
       "name": "Arm Traps",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Chudan (Middle-Level)"
       ],
       "belt": "Green",
@@ -898,8 +898,8 @@
     {
       "name": "Single-arm block",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Gedan (Low-Level)"
       ],
       "belt": "Yellow",
@@ -912,8 +912,8 @@
     {
       "name": "Down chop",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Gedan (Low-Level)"
       ],
       "belt": "Green",
@@ -926,8 +926,8 @@
     {
       "name": "Cross block (juji block)",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Gedan (Low-Level)"
       ],
       "belt": "Green",
@@ -940,8 +940,8 @@
     {
       "name": "Leg trap",
       "categories": [
-        "DEFENSES AGAINST STRIKES/KICKS",
-        "Blocking (Te No Tatake) ",
+        "Defenses Against Strikes/Kicks",
+        "Blocking (Te No Tatake)",
         "Gedan (Low-Level)"
       ],
       "belt": "Green Yellow",
@@ -954,9 +954,9 @@
     {
       "name": "Kubi Nage (Neck Throw) [regular, aiki]",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -968,9 +968,9 @@
     {
       "name": "O Goshi (Major Hip Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -982,9 +982,9 @@
     {
       "name": "Seoi Nage (Shoulder Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -996,9 +996,9 @@
     {
       "name": "Tai Otoshi (Body Drop)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1010,9 +1010,9 @@
     {
       "name": "Uki Goshi (Floating Hip Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1024,9 +1024,9 @@
     {
       "name": "Harai  Goshi (Sweeping Hip Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1038,9 +1038,9 @@
     {
       "name": "Hane Goshi (Spring Hip Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1052,9 +1052,9 @@
     {
       "name": "Uchi Mata (Inner Thigh Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1066,9 +1066,9 @@
     {
       "name": "Ura Nage (Rear Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "STANDING TECHNIQUES (TACHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Standing Techniques (Tachi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1080,9 +1080,9 @@
     {
       "name": "Single-leg takedown",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1094,9 +1094,9 @@
     {
       "name": "Double-leg takedown",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1108,9 +1108,9 @@
     {
       "name": "Head winding throw",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1122,9 +1122,9 @@
     {
       "name": "Sleeve Pivot Throw",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1136,9 +1136,9 @@
     {
       "name": "Corkscrew Throw (from Kote Hineri)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1150,9 +1150,9 @@
     {
       "name": "Sumi Otoshi (Corner Drop)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1164,9 +1164,9 @@
     {
       "name": "Ude Guruma Makikomi (Arm Wheel Winding Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1178,9 +1178,9 @@
     {
       "name": "Uki Otoshi (Floating Drop)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "OTHER  ",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Other",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1192,9 +1192,9 @@
     {
       "name": "O Soto Gari (Big Outer Reap)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1206,9 +1206,9 @@
     {
       "name": "O Uchi Gari (Big Inner Reap)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1220,9 +1220,9 @@
     {
       "name": "De Ashi Harai (Forward Foot Sweep)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1234,9 +1234,9 @@
     {
       "name": "Sasae Tsurikomi Ashi (Suporting Foot Lift-Pull)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1248,9 +1248,9 @@
     {
       "name": "Hiza Guruma (Knee Wheel)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1262,9 +1262,9 @@
     {
       "name": "Kosoto Gake (Small Outer Hook)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1276,9 +1276,9 @@
     {
       "name": "Kouchi Gari (Small Inside Reap)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1290,9 +1290,9 @@
     {
       "name": "Kosoto Gari (Small Outer Reap)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -1304,9 +1304,9 @@
     {
       "name": "Okuri Ashi Harai (Side Foot Sweep)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "FOOT/LEG TECHNIQUES (ASHI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Foot/Leg Techniques (Ashi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -1318,9 +1318,9 @@
     {
       "name": "Tani Otoshi (Valley Drop)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1332,9 +1332,9 @@
     {
       "name": "Yoko Otoshi (Side Drop)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1346,9 +1346,9 @@
     {
       "name": "Yoko Wakare (Side Separation)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1360,9 +1360,9 @@
     {
       "name": "Soto Makikomi (Outside Winding Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1374,9 +1374,9 @@
     {
       "name": "Sumi Gaeshi (Corner Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1388,9 +1388,9 @@
     {
       "name": "Tomoenage (Comma-shaped Throw)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1402,9 +1402,9 @@
     {
       "name": "Uki Waza (Floating Throw Technique)",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1416,9 +1416,9 @@
     {
       "name": "Yoko Gake (Side Body Drop --\"Side Hook\")",
       "categories": [
-        "THROWING TECHNIQUES (NAGE WAZA)",
-        "SACRIFICE TECHNIQUES (SUTEMI WAZA)",
-        "HIP TECHNIQUES (KOSHI WAZA)  "
+        "Throwing Techniques (Nage Waza)",
+        "Sacrifice Techniques (Sutemi Waza)",
+        "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1430,8 +1430,8 @@
     {
       "name": "Strike (Atemi)",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1443,8 +1443,8 @@
     {
       "name": "Kick (Geri)",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1456,8 +1456,8 @@
     {
       "name": "Single-wrist grab",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1469,8 +1469,8 @@
     {
       "name": "Double-wrist grab (front, rear)",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1482,8 +1482,8 @@
     {
       "name": "Headlock",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1495,8 +1495,8 @@
     {
       "name": "Front Choke",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1508,8 +1508,8 @@
     {
       "name": "Rear Choke (forearm)",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1519,10 +1519,10 @@
       "pages_kodokan97": ""
     },
     {
-      "name": "Rear Bearhug ",
+      "name": "Rear Bearhug",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1534,8 +1534,8 @@
     {
       "name": "Football Tackle",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1547,8 +1547,8 @@
     {
       "name": "Lapel Grab",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1560,8 +1560,8 @@
     {
       "name": "Rear Choke (arms extended)",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1573,8 +1573,8 @@
     {
       "name": "Front Bearhug",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1586,8 +1586,8 @@
     {
       "name": "Handshake",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1599,8 +1599,8 @@
     {
       "name": "Hair Grab",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Purple",
       "video": "",
@@ -1612,8 +1612,8 @@
     {
       "name": "Shoulder Grab",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1625,8 +1625,8 @@
     {
       "name": "Mugging Attack",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1638,8 +1638,8 @@
     {
       "name": "Full Nelson",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST UNARMED ATTACKS"
+        "Self-Defense",
+        "Against Unarmed Attacks"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1651,8 +1651,8 @@
     {
       "name": "Knife",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST ARMED ATTACKS"
+        "Self-Defense",
+        "Against Armed Attacks"
       ],
       "belt": "Green",
       "video": "",
@@ -1664,8 +1664,8 @@
     {
       "name": "Club",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST ARMED ATTACKS"
+        "Self-Defense",
+        "Against Armed Attacks"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1677,8 +1677,8 @@
     {
       "name": "Gun",
       "categories": [
-        "SELF-DEFENSE",
-        "AGAINST ARMED ATTACKS"
+        "Self-Defense",
+        "Against Armed Attacks"
       ],
       "belt": "Purple",
       "video": "",
@@ -1688,5 +1688,6 @@
       "pages_kodokan97": "202, 203"
     }
   ]
+
 
 }
