@@ -12,7 +12,6 @@ export default function TechniqueFilter(props) {
     }
 
     return (
-        <div style={{ width: '80%', padding: 0 }}>
             <Autocomplete
                 key={props.keyAutocomplete}
                 freeSolo={true}
@@ -25,7 +24,5 @@ export default function TechniqueFilter(props) {
                 )}
                 onChange={handleChange}
             />
-
-        </div>
     );
 }

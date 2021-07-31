@@ -17,7 +17,6 @@ function App() {
     const [techniqueId, setTechniqueId] = useState(-1)
 
 
-
     const filterBelt = (color) => {
         let newKey = keyAutocomplete + 1
         setKeyAutocomplete(newKey)
@@ -48,7 +47,7 @@ function App() {
             component = <ViewTechnique setTechniqueId={setTechniqueId}
                                        technique={originalSyllabusData.techniques[techniqueId - 1]}/>
         } else {
-            component = <div><TechniqueList syllabus={syllabus} setTechniqueId={setTechniqueId} /></div>
+            component = <div><TechniqueList syllabus={syllabus} setTechniqueId={setTechniqueId}/></div>
         }
         return component
     }
@@ -56,9 +55,15 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <Typography variant="h4">Kaiwan Budokai Syllabus</Typography>
-                <TechniqueFilter keyAutocomplete={keyAutocomplete} filterText={filterText}/>
-                <BeltFilter beltColor={selectedBelt} filterBelt={filterBelt}/>
+                <div className={"headerLogo"}>
+                    <img src="./icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"></img>
+                    <Typography variant="subtitle1">Kaiwan Budokai</Typography>
+                    <Typography variant="subtitle1">Syllabus</Typography>
+                </div>
+                <div className={"headerControls"}>
+                    <TechniqueFilter keyAutocomplete={keyAutocomplete} filterText={filterText} class="techniqueFilter" />
+                    <BeltFilter beltColor={selectedBelt} filterBelt={filterBelt} class="beltFilter" />
+                </div>
             </header>
             {getComponent()}
         </div>
