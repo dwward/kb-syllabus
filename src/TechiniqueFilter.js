@@ -18,7 +18,7 @@ export default function TechniqueFilter(props) {
                 freeSolo={true}
                 options={syllabus.techniques}
                 // strips the categories of any labels in parenthesis () and concatenates them with delimiter '>'
-                groupBy={(option) => option.categories.map(opt => (opt.indexOf(' (')==-1 ? opt : opt.slice(0, opt.indexOf(' (')))).join(' > ')}
+                groupBy={(option) => option.categories.map(opt => (opt.indexOf(' (')===-1 ? opt : opt.slice(0, opt.indexOf(' (')))).join(' > ')}
                 getOptionLabel={(option) => typeof(option)=="string" ? option : option.name}
                 renderInput={(params) => (
                     <TextField {...params} label="Search..." margin="normal" variant="outlined" />
