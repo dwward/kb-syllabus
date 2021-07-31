@@ -86,8 +86,13 @@ with open('Jujitsu-Syllabus-201701.csv', 'r') as read_obj:
     category3=''
     techniques = []
     books = []
+    id=1
+    currRow=1
 
-    for row in csv_reader:        
+    for row in csv_reader:
+#         print("Reading line: ", currRow)
+#         currRow+=1
+
         #Retrieve category
         if isCategory(row):    
             if row[0]:
@@ -102,6 +107,10 @@ with open('Jujitsu-Syllabus-201701.csv', 'r') as read_obj:
             if not isCategory(row):
                  #Build technique JSON
                 t = {}
+
+                #id used by reactjs
+                t['id'] = id
+                id += 1
 
                 # technique name
                 t['name'] = row[0].strip()

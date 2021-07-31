@@ -9,16 +9,16 @@ import BeltLabel from "./BeltLabel";
 
 const useStyles = makeStyles({
     root: {
-        minWidth: 300,
-        maxWidth: 300,
-        minHeight: 300,
-        maxHeight: 300,
+        minWidth: 400,
+        maxWidth: 400,
+        minHeight: 400,
+        maxHeight: 400,
         display: "flex",
         flexDirection: "column"
     },
     media: {
         //height: 140
-        height: 170,
+        height: 220,
         width: "100%"
     },
     actions: {
@@ -47,17 +47,18 @@ export default function TechniqueCard(props) {
                 <CardActionArea>
                     <CardMedia
                         className={classes.media}
-                        image={getThumb(props.video)}
-                        title={props.title}
+                        image={getThumb(props.technique.video)}
+                        title={props.technique.name}
+                        onClick={() => props.setTechniqueId(props.technique.id)}
                     />
                     <CardContent>
                         <Typography gutterBottom variant="subtitle1">
-                            {props.title}
+                            {props.technique.name}
                         </Typography>
                     </CardContent>
                 </CardActionArea>
                 <CardActions className={classes.actions}>
-                    <BeltLabel beltColor={props.belt} />
+                    <BeltLabel beltColor={props.technique.belt} />
                 </CardActions>
             </Card>
         </div>

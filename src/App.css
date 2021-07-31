@@ -39,3 +39,7 @@
     width: 100%;
     text-transform: capitalize;
 }
+
+.viewTechniqueBackButton {
+    margin: 10px 0px 30px 0px
+}

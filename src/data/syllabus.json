@@ -26,6 +26,7 @@
   ],
   "techniques": [
     {
+      "id": 1,
       "name": "Back Fall (Ushiro Ukemi)",
       "categories": [
         "Falls (Ukemi)"
@@ -38,30 +39,33 @@
       "pages_kodokan97": "45"
     },
     {
+      "id": 2,
       "name": "Side Fall (Yoko Ukemi)",
       "categories": [
         "Falls (Ukemi)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=JCwK1Ia4jsc",
+      "video": "",
       "description": "",
       "pages_kirby83": "30",
       "pages_kirby99": "",
       "pages_kodokan97": "48"
     },
     {
+      "id": 3,
       "name": "Front Fall (Mae Ukemi)",
       "categories": [
         "Falls (Ukemi)"
       ],
       "belt": "Green",
-      "video": "https://www.youtube.com/watch?v=veM5RFdjo0U",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
       "pages_kodokan97": "51"
     },
     {
+      "id": 4,
       "name": "Front Roll (Zempo Kaiten Ukemi)",
       "categories": [
         "Rolls (Kaiten Ukemi)"
@@ -74,6 +78,7 @@
       "pages_kodokan97": "52"
     },
     {
+      "id": 5,
       "name": "Eight Ways Off-Balancing (Happo No Kusushi)",
       "categories": [
         "Off-Balancing (Kusushi)"
@@ -86,6 +91,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 6,
       "name": "Waki Gatame (Armpit Lock)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -98,6 +104,7 @@
       "pages_kodokan97": "129"
     },
     {
+      "id": 7,
       "name": "Kote Gaeshi (Wrist Reversal)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -110,6 +117,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 8,
       "name": "Kote Hineri (Wrist Twist)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -122,6 +130,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 9,
       "name": "Shiho Nage (Four Directions Throw)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -134,6 +143,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 10,
       "name": "Ude Garame (Arm Entanglement)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -146,6 +156,7 @@
       "pages_kodokan97": "125"
     },
     {
+      "id": 11,
       "name": "Elbow Takedown",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -158,6 +169,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 12,
       "name": "Hammer Lock",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -170,6 +182,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 13,
       "name": "Wristlock Takedown",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -182,6 +195,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 14,
       "name": "Kote Mawashi (Wrist Turn)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -194,6 +208,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 15,
       "name": "Yubi Nage (Finger Throw)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -206,6 +221,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 16,
       "name": "Oshi Taoshi (Push Down) [Elbow Roll]",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -218,6 +234,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 17,
       "name": "Ude Gatame (Arm Lock)",
       "categories": [
         "Arm/Hand Techniques (Ude/Te Waza)"
@@ -230,6 +247,7 @@
       "pages_kodokan97": "127, 195"
     },
     {
+      "id": 18,
       "name": "Trachea Thrust",
       "categories": [
         "Nerve Techniques (Shioku Waza)"
@@ -242,6 +260,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 19,
       "name": "Mastoid Press",
       "categories": [
         "Nerve Techniques (Shioku Waza)"
@@ -254,6 +273,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 20,
       "name": "Radial Nerve",
       "categories": [
         "Nerve Techniques (Shioku Waza)"
@@ -266,6 +286,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 21,
       "name": "Guard",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -279,6 +300,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 22,
       "name": "Mount",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -292,6 +314,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 23,
       "name": "Back Mount (Figure 4)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -305,58 +328,63 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 24,
       "name": "Hon Kesa Gatame (Scarf Hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
         "Pins (Osae-Komi Waza)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=3UnJa3bn0h8",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
       "pages_kodokan97": "110, 161"
     },
     {
+      "id": 25,
       "name": "Yoko Shiho Gatame (Side 4-corner hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
         "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green",
-      "video": "https://www.youtube.com/watch?v=1GJn6OEyuO4",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
       "pages_kodokan97": "115, 164"
     },
     {
+      "id": 26,
       "name": "Kata Gatame (Shoulder Hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
         "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green Yellow",
-      "video": "https://www.youtube.com/watch?v=TFClghvGD9w",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
       "pages_kodokan97": "112, 162"
     },
     {
+      "id": 27,
       "name": "Kami Shiho Gatame (Top 4-corner hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
         "Pins (Osae-Komi Waza)"
       ],
       "belt": "Green Yellow",
-      "video": "https://www.youtube.com/watch?v=2evEh7OBnBg",
+      "video": "",
       "description": "",
       "pages_kirby83": "",
       "pages_kirby99": "",
       "pages_kodokan97": "113, 163"
     },
     {
+      "id": 28,
       "name": "From Guard",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -370,6 +398,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 29,
       "name": "From Mount Position",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -383,6 +412,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 30,
       "name": "From Hon Kesa Gatame (Scarf Hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -396,6 +426,7 @@
       "pages_kodokan97": "111"
     },
     {
+      "id": 31,
       "name": "From Yoko Shiho Gatame (Side 4-corner hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -409,6 +440,7 @@
       "pages_kodokan97": "115"
     },
     {
+      "id": 32,
       "name": "From Kata Gatame (Shoulder Hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -422,6 +454,7 @@
       "pages_kodokan97": "112"
     },
     {
+      "id": 33,
       "name": "Fron Kami Shiho Gatame (Top 4-corner hold)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -435,6 +468,7 @@
       "pages_kodokan97": "113"
     },
     {
+      "id": 34,
       "name": "Juji Gatame (Cross Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -448,6 +482,7 @@
       "pages_kodokan97": "126, 169"
     },
     {
+      "id": 35,
       "name": "Ude Garame (Arm Entanglement)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -461,6 +496,7 @@
       "pages_kodokan97": "125, 169"
     },
     {
+      "id": 36,
       "name": "Sankaku Gatame (Triangle Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -474,6 +510,7 @@
       "pages_kodokan97": "124, 130"
     },
     {
+      "id": 37,
       "name": "Waki Gatame (Armpit Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -487,6 +524,7 @@
       "pages_kodokan97": "129"
     },
     {
+      "id": 38,
       "name": "Ude Gatame (Arm Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -500,6 +538,7 @@
       "pages_kodokan97": "127, 170"
     },
     {
+      "id": 39,
       "name": "Hiza Gatame (Knee Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -513,6 +552,7 @@
       "pages_kodokan97": "130, 170"
     },
     {
+      "id": 40,
       "name": "Hadaka-jime (Naked Choke)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -526,6 +566,7 @@
       "pages_kodokan97": "120,166"
     },
     {
+      "id": 41,
       "name": "Kata-ha-jime (Single-wing Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -539,6 +580,7 @@
       "pages_kodokan97": "122, 167"
     },
     {
+      "id": 42,
       "name": "Gyaku-juji-jime (Reverse Cross Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -552,6 +594,7 @@
       "pages_kodokan97": "118, 168"
     },
     {
+      "id": 43,
       "name": "Okuri-eri-jime (Sliding Collar Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -565,6 +608,7 @@
       "pages_kodokan97": "121, 166"
     },
     {
+      "id": 44,
       "name": "Nami-juji-jime (Normal Cross Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -578,6 +622,7 @@
       "pages_kodokan97": "117, 165"
     },
     {
+      "id": 45,
       "name": "Kata-juji-jime (Half-cross Lock)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -591,6 +636,7 @@
       "pages_kodokan97": "119, 165"
     },
     {
+      "id": 46,
       "name": "Sode-guruma-jime (Sleeve Wheel Choke)",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -604,6 +650,7 @@
       "pages_kodokan97": "123"
     },
     {
+      "id": 47,
       "name": "Guillotine choke",
       "categories": [
         "Ground Techniques (Ne Waza)",
@@ -617,6 +664,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 48,
       "name": "Jab",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -630,6 +678,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 49,
       "name": "Hook",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -643,6 +692,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 50,
       "name": "Cross",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -656,6 +706,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 51,
       "name": "Straight Punch",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -669,6 +720,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 52,
       "name": "Upper cut",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -682,6 +734,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 53,
       "name": "Palm Strike",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -695,6 +748,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 54,
       "name": "Chop",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -708,6 +762,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 55,
       "name": "Backhand",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -721,6 +776,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 56,
       "name": "Elbow Strike",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -734,6 +790,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 57,
       "name": "(Head Butt)",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -747,6 +804,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 58,
       "name": "Mae Geri (Front Kick)",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -760,6 +818,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 59,
       "name": "Roundhouse Kick",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -773,6 +832,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 60,
       "name": "Side Kick",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -786,6 +846,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 61,
       "name": "Fumi (Stomp)",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -799,6 +860,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 62,
       "name": "Back Kick",
       "categories": [
         "Striking Techniques (Atemi Waza)",
@@ -812,6 +874,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 63,
       "name": "Single-arm block",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -826,6 +889,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 64,
       "name": "Juji (Cross block)",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -840,6 +904,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 65,
       "name": "Outside",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -854,6 +919,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 66,
       "name": "Inside",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -868,6 +934,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 67,
       "name": "Circle/Arc",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -882,6 +949,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 68,
       "name": "Arm Traps",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -896,6 +964,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 69,
       "name": "Single-arm block",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -910,6 +979,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 70,
       "name": "Down chop",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -924,6 +994,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 71,
       "name": "Cross block (juji block)",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -938,6 +1009,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 72,
       "name": "Leg trap",
       "categories": [
         "Defenses Against Strikes/Kicks",
@@ -952,6 +1024,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 73,
       "name": "Kubi Nage (Neck Throw) [regular, aiki]",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -966,6 +1039,7 @@
       "pages_kodokan97": "70"
     },
     {
+      "id": 74,
       "name": "O Goshi (Major Hip Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -980,6 +1054,7 @@
       "pages_kodokan97": "65"
     },
     {
+      "id": 75,
       "name": "Seoi Nage (Shoulder Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -994,6 +1069,7 @@
       "pages_kodokan97": "67, 149"
     },
     {
+      "id": 76,
       "name": "Tai Otoshi (Body Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1008,6 +1084,7 @@
       "pages_kodokan97": "73"
     },
     {
+      "id": 77,
       "name": "Uki Goshi (Floating Hip Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1022,6 +1099,7 @@
       "pages_kodokan97": "63, 151"
     },
     {
+      "id": 78,
       "name": "Harai  Goshi (Sweeping Hip Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1036,6 +1114,7 @@
       "pages_kodokan97": "74, 150"
     },
     {
+      "id": 79,
       "name": "Hane Goshi (Spring Hip Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1050,6 +1129,7 @@
       "pages_kodokan97": "80"
     },
     {
+      "id": 80,
       "name": "Uchi Mata (Inner Thigh Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1064,6 +1144,7 @@
       "pages_kodokan97": "75, 102, 154"
     },
     {
+      "id": 81,
       "name": "Ura Nage (Rear Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1078,6 +1159,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 82,
       "name": "Single-leg takedown",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1092,6 +1174,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 83,
       "name": "Double-leg takedown",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1106,6 +1189,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 84,
       "name": "Head winding throw",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1120,6 +1204,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 85,
       "name": "Sleeve Pivot Throw",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1134,6 +1219,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 86,
       "name": "Corkscrew Throw (from Kote Hineri)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1148,6 +1234,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 87,
       "name": "Sumi Otoshi (Corner Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1162,6 +1249,7 @@
       "pages_kodokan97": "98"
     },
     {
+      "id": 88,
       "name": "Ude Guruma Makikomi (Arm Wheel Winding Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1176,6 +1264,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 89,
       "name": "Uki Otoshi (Floating Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1190,6 +1279,7 @@
       "pages_kodokan97": "91, 148"
     },
     {
+      "id": 90,
       "name": "O Soto Gari (Big Outer Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1197,13 +1287,14 @@
         "Hip Techniques (Koshi Waza)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=c-A_nP7mKAc",
+      "video": "",
       "description": "",
       "pages_kirby83": "64",
       "pages_kirby99": "",
       "pages_kodokan97": "64"
     },
     {
+      "id": 91,
       "name": "O Uchi Gari (Big Inner Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1218,6 +1309,7 @@
       "pages_kodokan97": "66"
     },
     {
+      "id": 92,
       "name": "De Ashi Harai (Forward Foot Sweep)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1232,6 +1324,7 @@
       "pages_kodokan97": "60"
     },
     {
+      "id": 93,
       "name": "Sasae Tsurikomi Ashi (Suporting Foot Lift-Pull)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1246,6 +1339,7 @@
       "pages_kodokan97": "62, 153"
     },
     {
+      "id": 94,
       "name": "Hiza Guruma (Knee Wheel)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1260,6 +1354,7 @@
       "pages_kodokan97": "61"
     },
     {
+      "id": 95,
       "name": "Kosoto Gake (Small Outer Hook)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1274,6 +1369,7 @@
       "pages_kodokan97": "76"
     },
     {
+      "id": 96,
       "name": "Kouchi Gari (Small Inside Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1288,6 +1384,7 @@
       "pages_kodokan97": "69"
     },
     {
+      "id": 97,
       "name": "Kosoto Gari (Small Outer Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1302,6 +1399,7 @@
       "pages_kodokan97": "68"
     },
     {
+      "id": 98,
       "name": "Okuri Ashi Harai (Side Foot Sweep)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1316,6 +1414,7 @@
       "pages_kodokan97": "72, 152"
     },
     {
+      "id": 99,
       "name": "Tani Otoshi (Valley Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1330,6 +1429,7 @@
       "pages_kodokan97": "80"
     },
     {
+      "id": 100,
       "name": "Yoko Otoshi (Side Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1344,6 +1444,7 @@
       "pages_kodokan97": "78"
     },
     {
+      "id": 101,
       "name": "Yoko Wakare (Side Separation)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1358,6 +1459,7 @@
       "pages_kodokan97": "94"
     },
     {
+      "id": 102,
       "name": "Soto Makikomi (Outside Winding Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1372,6 +1474,7 @@
       "pages_kodokan97": "90"
     },
     {
+      "id": 103,
       "name": "Sumi Gaeshi (Corner Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1386,6 +1489,7 @@
       "pages_kodokan97": "84, 156"
     },
     {
+      "id": 104,
       "name": "Tomoenage (Comma-shaped Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1400,6 +1504,7 @@
       "pages_kodokan97": "82, 154"
     },
     {
+      "id": 105,
       "name": "Uki Waza (Floating Throw Technique)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1414,6 +1519,7 @@
       "pages_kodokan97": "93, 158"
     },
     {
+      "id": 106,
       "name": "Yoko Gake (Side Body Drop --\"Side Hook\")",
       "categories": [
         "Throwing Techniques (Nage Waza)",
@@ -1428,6 +1534,7 @@
       "pages_kodokan97": "99, 157"
     },
     {
+      "id": 107,
       "name": "Strike (Atemi)",
       "categories": [
         "Self-Defense",
@@ -1441,6 +1548,7 @@
       "pages_kodokan97": "196"
     },
     {
+      "id": 108,
       "name": "Kick (Geri)",
       "categories": [
         "Self-Defense",
@@ -1454,6 +1562,7 @@
       "pages_kodokan97": "198"
     },
     {
+      "id": 109,
       "name": "Single-wrist grab",
       "categories": [
         "Self-Defense",
@@ -1467,6 +1576,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 110,
       "name": "Double-wrist grab (front, rear)",
       "categories": [
         "Self-Defense",
@@ -1480,6 +1590,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 111,
       "name": "Headlock",
       "categories": [
         "Self-Defense",
@@ -1493,6 +1604,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 112,
       "name": "Front Choke",
       "categories": [
         "Self-Defense",
@@ -1506,6 +1618,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 113,
       "name": "Rear Choke (forearm)",
       "categories": [
         "Self-Defense",
@@ -1519,6 +1632,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 114,
       "name": "Rear Bearhug",
       "categories": [
         "Self-Defense",
@@ -1532,6 +1646,7 @@
       "pages_kodokan97": "90"
     },
     {
+      "id": 115,
       "name": "Football Tackle",
       "categories": [
         "Self-Defense",
@@ -1545,6 +1660,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 116,
       "name": "Lapel Grab",
       "categories": [
         "Self-Defense",
@@ -1558,6 +1674,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 117,
       "name": "Rear Choke (arms extended)",
       "categories": [
         "Self-Defense",
@@ -1571,6 +1688,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 118,
       "name": "Front Bearhug",
       "categories": [
         "Self-Defense",
@@ -1584,6 +1702,7 @@
       "pages_kodokan97": "66"
     },
     {
+      "id": 119,
       "name": "Handshake",
       "categories": [
         "Self-Defense",
@@ -1597,6 +1716,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 120,
       "name": "Hair Grab",
       "categories": [
         "Self-Defense",
@@ -1610,6 +1730,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 121,
       "name": "Shoulder Grab",
       "categories": [
         "Self-Defense",
@@ -1623,6 +1744,7 @@
       "pages_kodokan97": "208"
     },
     {
+      "id": 122,
       "name": "Mugging Attack",
       "categories": [
         "Self-Defense",
@@ -1636,6 +1758,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 123,
       "name": "Full Nelson",
       "categories": [
         "Self-Defense",
@@ -1649,6 +1772,7 @@
       "pages_kodokan97": ""
     },
     {
+      "id": 124,
       "name": "Knife",
       "categories": [
         "Self-Defense",
@@ -1662,6 +1786,7 @@
       "pages_kodokan97": "199, 200"
     },
     {
+      "id": 125,
       "name": "Club",
       "categories": [
         "Self-Defense",
@@ -1675,6 +1800,7 @@
       "pages_kodokan97": "200, 201"
     },
     {
+      "id": 126,
       "name": "Gun",
       "categories": [
         "Self-Defense",
@@ -1688,6 +1814,7 @@
       "pages_kodokan97": "202, 203"
     }
   ]
+
 
 
 }
