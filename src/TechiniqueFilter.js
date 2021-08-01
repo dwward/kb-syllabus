@@ -23,6 +23,7 @@ export default function TechniqueFilter(props) {
                     <TextField {...params} label="Search..." margin="normal" variant="outlined" />
                 )}
                 onChange={handleChange}
+                className="techniqueFilter"
             />
     );
 }

@@ -12,13 +12,19 @@ export default function ViewTechnique(props) {
                     variant="contained"
                     color="primary"
                     startIcon={<ArrowBackIcon/>}
-                    onClick={() => {props.setTechniqueId('-1')}}
+                    onClick={() => {
+                        props.setTechniqueId('-1')
+                    }}
                 >
                     Return to Techniques
                 </Button>
             </div>
-            <ReactPlayer url={props.technique.video}/>
             <p>{props.technique.name}</p>
+            <div className="maxWidthWrapper">
+                <div className="wrapper">
+                    <ReactPlayer className="player" url={props.technique.video}/>
+                </div>
+            </div>
         </div>
     );
 }

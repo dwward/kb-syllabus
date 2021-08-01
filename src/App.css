@@ -5,12 +5,11 @@
 
 .App-header {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-wrap: nowrap;
     align-items: center;
     align-content: center;
-    padding: 10px;
-    gap: 60px;
+    padding: 5px 5px 0px 0px;
+    gap: 10px;
 }
 
 .App-link {
@@ -18,26 +17,21 @@
 }
 
 .headerLogo {
-    flex-shrink: 1;
+    flex: 1;
 }
 
 .headerControls {
-    flex-grow: 4;
-    max-width: 80%;
+    flex: 2;
+    text-align: left;
 }
 
 .kblogo {
-    width: 100px;
-    height: 100px;
-    flex-grow: 1;
+    width: 80px;
+    height: 80px;
 }
 
 .techniqueFilter {
-    width: 100%;
-}
-
-.beltFilter {
-    width: 100%
+    width: 92%;
 }
 
 .techniqueList {
@@ -63,3 +57,24 @@
 .viewTechniqueBackButton {
     margin: 10px 0px 30px 0px
 }
+
+/* Make react-player scale: https://stackoverflow.com/questions/49393838/how-to-make-reactplayer-scale-with-height-and-width */
+.wrapper {
+    position: relative !important;
+    /* Player ratio: 100 / (1280 / 720) */
+    padding-top: 56.25% !important;
+}
+
+.player {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.maxWidthWrapper {
+    max-width: 800px;
+}
+/* End Reactplayer */
+

@@ -14,8 +14,7 @@ export default function BeltFilter(props) {
     const useStyles = makeStyles((theme) => ({
         formControl: {
             margin: theme.spacing(1),
-            minWidth: 250,
-            width: "80%"
+            width: "90%"
         },
         selectEmpty: {
             marginTop: theme.spacing(2),
