@@ -6,6 +6,12 @@ import React from "react";
 
 export default function ViewTechnique(props) {
 
+    function youtube_parser(url) {
+        var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+        var match = url.match(regExp);
+        return (match && match[7].length == 11) ? match[7] : false;
+    }
+
     return (
         <div align={"center"}>
             <div className="viewTechniqueBackButton">
@@ -21,15 +27,19 @@ export default function ViewTechnique(props) {
                 </Button>
             </div>
             <p>{props.technique.name}</p>
-                    { props.technique.video &&
-            <div className="maxWidthWrapper">
-                <div className="wrapper">
-                        <ReactPlayer className="player" url={props.technique.video} />
-                </div>
-            </div>
-                    }
+
+
+            {
+                props.technique.video &&
+                <iframe width="560" height="315"
+                        src={"https://www.youtube.com/embed/" + youtube_parser(props.technique.video)}
+                        title="YouTube video player" frameBorder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen></iframe>
+
+            }
             {!props.technique.video &&
-            <img src="/640x360.png" className="placeholder" alt="Video not available" />
+            <img src="/640x360.png" className="placeholder" alt="Video not available"/>
             }
             <div className="detailWrapper">
                 <Typography variant={"h6"}>Category:</Typography>
@@ -45,20 +55,20 @@ export default function ViewTechnique(props) {
                 </Typography>
                 <ol>
                     {
-                            props.technique.pages_kirby83 &&
-                            <li>
-                                <Typography variant={"body2"}>
-                                    Kirby, George (1983).  Jujitsu: Basic techniques of the gentle art.
-                                    Santa Clarita, CA.  Ohara Publications., Page(s): {props.technique.pages_kirby83}
-                                </Typography>
-                            </li>
+                        props.technique.pages_kirby83 &&
+                        <li>
+                            <Typography variant={"body2"}>
+                                Kirby, George (1983). Jujitsu: Basic techniques of the gentle art.
+                                Santa Clarita, CA. Ohara Publications., Page(s): {props.technique.pages_kirby83}
+                            </Typography>
+                        </li>
                     }
                     {
                         props.technique.pages_kirby99 &&
                         <li>
                             <Typography variant={"body2"}>
-                                Kirby, George (1999).  Intermediate techniques of jujitsu, the gentle art.
-                                Santa Clarita, CA.  Ohara Publications., Page(s): {props.technique.pages_kirby99}
+                                Kirby, George (1999). Intermediate techniques of jujitsu, the gentle art.
+                                Santa Clarita, CA. Ohara Publications., Page(s): {props.technique.pages_kirby99}
                             </Typography>
                         </li>
                     }
