@@ -62,7 +62,7 @@ function App() {
                     <Grid container spacing={1} align={"center"} alignItems={"center"}>
                         <Grid item xs={2}>
                             <a href="https://www.kaiwanbudokai.org">
-                                <img src="./icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"/>
+                                <img src="/icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"/>
                             </a>
 
                         </Grid>

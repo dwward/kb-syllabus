@@ -1,6 +1,5 @@
 .App {
     text-align: center;
-
 }
 
 .App-header {
@@ -65,7 +64,6 @@
     /* Player ratio: 100 / (1280 / 720) */
     padding-top: 56.25% !important;
 }
-
 .player {
     position: absolute !important;
     top: 0 !important;
@@ -73,11 +71,9 @@
     width: 100% !important;
     height: 100% !important;
 }
-
 .maxWidthWrapper {
     max-width: 800px;
 }
-
 /* End Reactplayer */
 
 .detailWrapper {
@@ -87,6 +83,7 @@
 
 .placeholder {
     width: 100%;
+    max-width: 800px;
     height: auto
 }
 
