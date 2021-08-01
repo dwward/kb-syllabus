@@ -2,10 +2,11 @@ import './App.css';
 import BeltFilter from './BeltFilter'
 import TechniqueFilter from "./TechiniqueFilter";
 import TechniqueList from "./TechniqueList";
-import {Typography} from "@material-ui/core";
+import {Grid} from "@material-ui/core";
 import Data from './data/syllabus.json';
 import React, {useState} from "react";
 import ViewTechnique from "./ViewTechnique";
+import CssBaseline from "@material-ui/core/CssBaseline";
 
 
 function App() {
@@ -52,21 +53,31 @@ function App() {
         return component
     }
 
+
     return (
-        <div className="App">
-            <header className="App-header">
-                <div className={"headerLogo"}>
-                    <img src="./icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"></img>
-                    <Typography variant="subtitle1">Kaiwan Budokai</Typography>
-                    <Typography variant="subtitle1">Syllabus</Typography>
-                </div>
-                <div className={"headerControls"}>
-                    <TechniqueFilter keyAutocomplete={keyAutocomplete} filterText={filterText} class="techniqueFilter" />
-                    <BeltFilter beltColor={selectedBelt} filterBelt={filterBelt} class="beltFilter" />
-                </div>
-            </header>
-            {getComponent()}
-        </div>
+        <React.Fragment>
+            <CssBaseline/>
+            <div className="App">
+                <header className="App-header">
+                    <Grid container spacing={1} align={"center"} alignItems={"center"}>
+                        <Grid item xs={2}>
+                            <a href="https://www.kaiwanbudokai.org">
+                                <img src="./icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"/>
+                            </a>
+
+                        </Grid>
+                        <Grid item xs={6}>
+                            <TechniqueFilter keyAutocomplete={keyAutocomplete} filterText={filterText}
+                                             class="techniqueFilter"/>
+                        </Grid>
+                        <Grid item xs={4}>
+                            <BeltFilter beltColor={selectedBelt} filterBelt={filterBelt} class="beltFilter"/>
+                        </Grid>
+                    </Grid>
+                </header>
+                {getComponent()}
+            </div>
+        </React.Fragment>
     )
 }
 

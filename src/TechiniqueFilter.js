@@ -13,6 +13,7 @@ export default function TechniqueFilter(props) {
 
     return (
             <Autocomplete
+                native={"true"}
                 key={props.keyAutocomplete}
                 freeSolo={true}
                 options={syllabus.techniques}

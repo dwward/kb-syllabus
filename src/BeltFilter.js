@@ -24,7 +24,7 @@ export default function BeltFilter(props) {
 
     return (
         <FormControl variant="filled" className={classes.formControl}>
-            <InputLabel htmlFor="filled-age-native-simple">Belt Test</InputLabel>
+            <InputLabel htmlFor="filled-age-native-simple">Belt</InputLabel>
             <Select
                 value={props.beltColor}
                 onChange={handleChange}
