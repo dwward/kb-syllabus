@@ -1,6 +1,5 @@
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 import {Button, Typography} from "@material-ui/core";
-import ReactPlayer from "react-player";
 import React from "react";
 
 
@@ -9,7 +8,7 @@ export default function ViewTechnique(props) {
     function youtube_parser(url) {
         var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
         var match = url.match(regExp);
-        return (match && match[7].length == 11) ? match[7] : false;
+        return (match && match[7].length === 11) ? match[7] : false;
     }
 
     return (
@@ -27,16 +26,17 @@ export default function ViewTechnique(props) {
                 </Button>
             </div>
             <p>{props.technique.name}</p>
-
-
             {
                 props.technique.video &&
-                <iframe width="560" height="315"
-                        src={"https://www.youtube.com/embed/" + youtube_parser(props.technique.video)}
-                        title="YouTube video player" frameBorder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen></iframe>
-
+                <div className="maxWidthWrapper">
+                    <div className="iframe-container">
+                        <iframe className="responsive-iframe"
+                                src={"https://www.youtube.com/embed/" + youtube_parser(props.technique.video)}
+                                title="YouTube video player" frameBorder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowFullScreen></iframe>
+                    </div>
+                </div>
             }
             {!props.technique.video &&
             <img src="/640x360.png" className="placeholder" alt="Video not available"/>
