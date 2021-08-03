@@ -7,6 +7,7 @@ import Data from './data/syllabus.json';
 import React, {useState} from "react";
 import ViewTechnique from "./ViewTechnique";
 import CssBaseline from "@material-ui/core/CssBaseline";
+import Typography from "@material-ui/core/Typography";
 
 
 function App() {
@@ -48,7 +49,7 @@ function App() {
             component = <ViewTechnique setTechniqueId={setTechniqueId}
                                        technique={originalSyllabusData.techniques[techniqueId - 1]}/>
         } else {
-            component = <div><TechniqueList syllabus={syllabus} setTechniqueId={setTechniqueId}/></div>
+            component = <TechniqueList syllabus={syllabus} setTechniqueId={setTechniqueId}/>
         }
         return component
     }
@@ -62,7 +63,7 @@ function App() {
                     <Grid container spacing={1} align={"center"} alignItems={"center"}>
                         <Grid item xs={2}>
                             <a href="https://www.kaiwanbudokai.org">
-                                <img src="/icons/apple-touch-icon.png" className="kblogo" alt="Kaiwan Budokai Logo"/>
+                                <img src="/kblogo-sm.png" className="kblogo" alt="Kaiwan Budokai Logo"/>
                             </a>
 
                         </Grid>
@@ -75,7 +76,14 @@ function App() {
                         </Grid>
                     </Grid>
                 </header>
-                {getComponent()}
+                <div>
+                    {getComponent()}
+                </div>
+                <div>
+                    <Typography variant="subtitle2" color="inherit">
+                        Except where otherwise noted, this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+                    </Typography>
+                </div>
             </div>
         </React.Fragment>
     )

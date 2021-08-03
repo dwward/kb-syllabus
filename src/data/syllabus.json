@@ -1163,8 +1163,7 @@
       "name": "Single-leg takedown",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1178,8 +1177,7 @@
       "name": "Double-leg takedown",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Green",
       "video": "",
@@ -1193,8 +1191,7 @@
       "name": "Head winding throw",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Green",
       "video": "",
@@ -1208,8 +1205,7 @@
       "name": "Sleeve Pivot Throw",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1223,8 +1219,7 @@
       "name": "Corkscrew Throw (from Kote Hineri)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1238,8 +1233,7 @@
       "name": "Sumi Otoshi (Corner Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Purple",
       "video": "",
@@ -1253,8 +1247,7 @@
       "name": "Ude Guruma Makikomi (Arm Wheel Winding Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Purple",
       "video": "",
@@ -1268,8 +1261,7 @@
       "name": "Uki Otoshi (Floating Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Other",
-        "Hip Techniques (Koshi Waza)"
+        "Other"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1283,11 +1275,10 @@
       "name": "O Soto Gari (Big Outer Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Yellow",
-      "video": "https://www.youtube.com/watch?v=c-A_nP7mKAc",
+      "video": "",
       "description": "",
       "pages_kirby83": "64",
       "pages_kirby99": "",
@@ -1298,8 +1289,7 @@
       "name": "O Uchi Gari (Big Inner Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1313,8 +1303,7 @@
       "name": "De Ashi Harai (Forward Foot Sweep)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1328,8 +1317,7 @@
       "name": "Sasae Tsurikomi Ashi (Suporting Foot Lift-Pull)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1343,8 +1331,7 @@
       "name": "Hiza Guruma (Knee Wheel)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1358,8 +1345,7 @@
       "name": "Kosoto Gake (Small Outer Hook)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1373,8 +1359,7 @@
       "name": "Kouchi Gari (Small Inside Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1388,8 +1373,7 @@
       "name": "Kosoto Gari (Small Outer Reap)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -1403,8 +1387,7 @@
       "name": "Okuri Ashi Harai (Side Foot Sweep)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Foot/Leg Techniques (Ashi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Foot/Leg Techniques (Ashi Waza)"
       ],
       "belt": "Brown 2",
       "video": "",
@@ -1418,8 +1401,7 @@
       "name": "Tani Otoshi (Valley Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Yellow",
       "video": "",
@@ -1433,8 +1415,7 @@
       "name": "Yoko Otoshi (Side Drop)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Green",
       "video": "",
@@ -1448,8 +1429,7 @@
       "name": "Yoko Wakare (Side Separation)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1463,8 +1443,7 @@
       "name": "Soto Makikomi (Outside Winding Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Green Yellow",
       "video": "",
@@ -1478,8 +1457,7 @@
       "name": "Sumi Gaeshi (Corner Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1493,8 +1471,7 @@
       "name": "Tomoenage (Comma-shaped Throw)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Purple",
       "video": "",
@@ -1508,8 +1485,7 @@
       "name": "Uki Waza (Floating Throw Technique)",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",
@@ -1523,8 +1499,7 @@
       "name": "Yoko Gake (Side Body Drop --\"Side Hook\")",
       "categories": [
         "Throwing Techniques (Nage Waza)",
-        "Sacrifice Techniques (Sutemi Waza)",
-        "Hip Techniques (Koshi Waza)"
+        "Sacrifice Techniques (Sutemi Waza)"
       ],
       "belt": "Brown 3",
       "video": "",

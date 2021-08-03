@@ -11,8 +11,9 @@ const useStyles = makeStyles({
     root: {
         minWidth: 400,
         maxWidth: 400,
-        minHeight: 400,
+        minHeight: 300,
         maxHeight: 400,
+        marginTop: "20px",
         display: "flex",
         flexDirection: "column"
     },
@@ -22,8 +23,11 @@ const useStyles = makeStyles({
         width: "100%"
     },
     actions: {
-        display: "flex",
-        marginTop: "auto"
+        display: "flex"
+
+    },
+    content: {
+        padding: "0px"
     }
 });
 
@@ -51,8 +55,8 @@ export default function TechniqueCard(props) {
                         title={props.technique.name}
                         onClick={() => props.setTechniqueId(props.technique.id)}
                     />
-                    <CardContent>
-                        <Typography gutterBottom variant="subtitle1">
+                    <CardContent className={classes.content}t>
+                        <Typography gutterBottom variant="body1">
                             {props.technique.name}
                         </Typography>
                     </CardContent>

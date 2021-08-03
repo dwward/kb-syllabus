@@ -101,6 +101,7 @@ with open('Jujitsu-Syllabus-201701.csv', 'r') as read_obj:
                 category3 = ''
             if row[1]:
                 category2 = row[1]
+                category3 = ''
             if row[2]:
                 category3 = row[2]
         else:

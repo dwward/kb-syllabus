@@ -2,6 +2,7 @@
     text-align: center;
 }
 
+/* Header */
 .App-header {
     display: flex;
     flex-wrap: nowrap;
@@ -10,42 +11,21 @@
     padding: 5px 5px 0px 0px;
     gap: 10px;
 }
-
-.App-link {
-    color: #61dafb;
-}
-
 .headerLogo {
     flex: 1;
 }
-
 .headerControls {
     flex: 2;
     text-align: left;
 }
-
 .kblogo {
     width: 60px;
     height: 60px;
     margin-left: 5px;
 }
-
 .techniqueFilter {
     width: 92%;
 }
-
-.techniqueList {
-}
-
-.techniqueCard {
-    display: inline-block;
-    padding: 4px;
-}
-
-.techniqueCard .MuiPaper-root {
-    border: solid lightgray 1px;
-}
-
 .beltLabelDefault {
     border: solid lightgray 1px;
     padding: 5px;
@@ -54,11 +34,22 @@
     text-transform: capitalize;
 }
 
+/* Technique list */
+.techniqueList {
+}
+.techniqueCard {
+    display: inline-block;
+    padding: 4px;
+}
+.techniqueCard .MuiPaper-root {
+    border: solid lightgray 1px;
+}
+
+/* View technique video and details */
+/* iframe responsive (https://www.w3schools.com/howto/howto_css_responsive_iframes.asp) */
 .viewTechniqueBackButton {
     margin: 10px 0px 30px 0px
 }
-
-/* iframe responsive (https://www.w3schools.com/howto/howto_css_responsive_iframes.asp) */
 .iframe-container {
     position: relative;
     overflow: hidden;
@@ -74,20 +65,21 @@
     width: 100%;
     height: 100%;
 }
-
 .maxWidthWrapper {
     max-width: 800px;
 }
-/* end iframe responsive */
-
 .detailWrapper {
     text-align: left;
     max-width: 600px;
 }
-
 .placeholder {
     width: 100%;
     max-width: 800px;
     height: auto
 }
+
+
+/*div {*/
+/*    border: solid black 1px*/
+/*}*/
 
